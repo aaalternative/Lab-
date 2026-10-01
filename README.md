@@ -1,2 +1,2 @@
-# Lab-
-Bmstu
+# BMSTU
+Lab
